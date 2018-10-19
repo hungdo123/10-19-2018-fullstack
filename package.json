@@ -1,31 +1,19 @@
 {
-  "name": "nguyendeptrai",
+  "name": "sourceabc",
   "version": "1.0.0",
-  "description": "day la du an lam ve web sech ",
-  "main": "index.js",
+  "description": "",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fullstackvietnam/blank-source.git"
+    "url": "git+https://github.com/hungdo123/10-19-2018-fullstack.git"
   },
-  "author": "KHOAI to",
+  "author": "hung",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fullstackvietnam/blank-source/issues"
+    "url": "https://github.com/hungdo123/10-19-2018-fullstack/issues"
   },
-  "homepage": "https://github.com/fullstackvietnam/blank-source#readme",
-  "dependencies": {
-    "gulp-pug": "^4.0.1",
-    "gulp-sass": "^4.0.1",
-    "sass": "^1.10.1"
-  },
-  "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-preset-env": "^1.7.0",
-    "browser-sync": "^2.24.6",
-    "gulp": "^3.9.1",
-    "gulp-babel": "^7.0.1"
-  }
+  "homepage": "https://github.com/hungdo123/10-19-2018-fullstack#readme"
 }
